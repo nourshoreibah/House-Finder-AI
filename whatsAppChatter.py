@@ -23,7 +23,7 @@ COMPLETION_ENDPOINT = "https://api.openai.com/v1/chat/completions"
 
 headers = {
     'Content-Type': 'application/json',
-    'Authorization': 'Bearer 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'
+    'Authorization': # API KEY HERE
 }
 
 chat_history = []
